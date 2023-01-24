@@ -1,0 +1,263 @@
+<mjml>
+  <mj-body background-color="#F0F1F3">
+    <mj-wrapper background-color="#F0F1F3">
+      <mj-raw>
+        <!-- Top Logo Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="360px" src="https://i.ibb.co/KKdtp2G/email-header.png" alt="font awesome logo"></mj-image>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-wrapper background-color="#FFFFFF">
+      <mj-raw>
+        <!-- Top Section Img -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/wSq65qN/email-treesandflakes.png" alt="holiday symbols"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Top Section Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="bold" font-size="20px" line-height="30px">
+            The best way to spread icon cheer is by singing loud for all to hear!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-bottom="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            If we could send you a singing telegram to show our appreciation, we would. But that miiiight be a little weird. Maybe an email will do?
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            Anyhoo, we're so thankful that you chose Font Awesome. We hope this season finds you well and thought it would be fun to share a snapshot year in review for 2022 (hey, that rhymes!) and a sneak peek of what to look forward to in 2023.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Green Chart Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/9vBgDDm/email-2022-chart.png" alt="Green Chart"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Launch Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/TwTfcG9/email-welaunched.png" alt="Launch Icon"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Launch Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-top="0" padding-left="40px" padding-right="40px" font-weight="bold" font-size="16px" line-height="23px">
+            <a style="color: #1c7ed6;" href="https://blog.fontawesome.com/font-awesome-6-2/" target="_blank">We Launched Font Awesome 6!</a>
+          </mj-text>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            The year started with a bang when Font Awesome 6 was officially released in early 2022. We crammed this most awesome version full of almost twice as many icons, new categories, and our all new Thin icon style.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Rocket Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/TBKn6j4/email-blastoff.png" alt="Rocket Icon"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Rocket Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-top="0" padding-left="40px" padding-right="40px" font-weight="bold" font-size="16px" line-height="23px">
+            <a style="color: #1c7ed6;" href="https://spaceawesome.io/" target="_blank">Blast Your Boredom and Play Space Awesome!</a>
+          </mj-text>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            We celebrated the 45th anniversary of a certain space western saga this year by launching a new retro-style text-based adventure called Space Awesome. Designed with all your favorite space-themed Font Awesome icons, naturally.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Star Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/WyGbfMb/email-classup.png" alt="Star Icon"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Star Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-top="0" padding-left="40px" padding-right="40px" font-weight="bold" font-size="16px" line-height="23px">
+            <a style="color: #1c7ed6;" href="https://blog.fontawesome.com/add-some-class-with-font-awesome-sharp-icons/" target="_blank">Class Up Your Project With Font Awesome Sharp Icons</a>
+          </mj-text>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            Dress up your project with Sharp like the other styles you're already used to. We've released Sharp already in Solid, with Regular, Light, Thin, and Duotone in tow early next year! Whether you use web fonts, our svgs, or Kits, Sharp icons just work — and fit like a glove.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Shoe Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/nD7NwPw/email-shoelace.png" alt="Shoe Icon"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Shoe Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-top="0" padding-left="40px" padding-right="40px" font-weight="bold" font-size="16px" line-height="23px">
+            <a style="color: #1c7ed6;" href="https://blog.fontawesome.com/shoelace-joins-font-awesome/" target="_blank">Shoelace Joins Font Awesome</a>
+          </mj-text>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            We love Cory LaViska's open source-web component library, Shoelace. Shoelace might just be the biggest, best web component library out there (open source or not), and we're thrilled Shoelace joined forces with Font Awesome. Stay tuned for 2023!
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Wizard Hat Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/F8WgSHJ/email-wizard-hat.png" alt="Wizard Hat Icon"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Wizard Hat Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-bottom="0" padding-top="0" padding-left="40px" padding-right="40px" font-weight="bold" font-size="16px" line-height="23px">
+            <a style="color: #1c7ed6;" href="https://blog.fontawesome.com/behold-the-font-awesome-icon-wizard/" target="_blank">Wield Near Infinite Icon Magic With the Icon Wizard</a>
+          </mj-text>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            Magically add a modifying element like circle-plus, slash, or even poop, to nearly any Font Awesome icon. (Available with the deep magic of a Pro subscription.)
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- That's not all text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            And that's not all! 2022 also included some much need additions to Font Awesome, such as:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- List text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            <ul>
+              <li><a style="color: #1c7ed6;" href="https://fontawesome.com/" target="_blank">A New Website Design</a> - It was high time for a site refresh, so our design squad broke out the construction gloves and got to work. We think you'll be very fond of the new design, which features intuitive UI, updated copy, and new, rill perdy fa-graphics.</li> <br>
+              <li><a style="color: #1c7ed6;" href="https://blog.fontawesome.com/humanitarian-icons/" target="_blank">Humanitarian Icons</a> - Last year, we collaborated with the United Nations Office for the Coordination of Human Affairs (OCHA) to adapt their existing humanitarian icons for use with Font Awesome, which are free to all Font Awesome users.</li><br>
+              <li><a style="color: #1c7ed6;" href="https://fontawesome.com/plans" target="_blank">Pro Max Plan</a> - Suppose you're bumping up against your plan limits. In that case, the Pro Max plan is great for development and design teams in larger organizations with lots of projects or apps.</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Divider -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Red Chart Image -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-image width="500px" src="https://i.ibb.co/G9b36cV/email-2023-chart.png" alt="Red Chart"></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Sneak Peek Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            And here's a sneak peek at some of the Awesome coming in 2023:
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- List text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            <ul>
+              <li><strong>More Sharp!</strong> We'll be releasing the remaining Sharp styles including Regular, Light, Thin, and Duotone.</li> <br>
+              <li><strong>Kit Download</strong> — Download your FA Kits, including custom icons!</li><br>
+              <li><a style="color: #1c7ed6;" href="https://www.podcastawesome.com/" target="_blank">Podcast Awesome</a> - short-form conversations about icons, design, tech, business, and nerdery!</li> <br>
+              <li><strong>And More!</strong> We have some secret projects percolating, and will share more soon!</li>
+            </ul>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Divider -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" />
+        </mj-column>
+      </mj-section>
+      <mj-raw>
+        <!-- Closing Text -->
+      </mj-raw>
+      <mj-section>
+        <mj-column>
+          <mj-text padding-top="0" padding-left="40px" padding-right="40px" color="#183153" font-weight="normal" font-size="16px" line-height="23px">
+            Happy New Year, and we hope you get time with your loved ones to make gingerbread houses, eat cookie dough, go ice skating, and maybe even hold hands. <br><br>Thanks for reading.<br>
+            Jory and the Font Awesome Elves
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <mj-section>
+      <mj-column>
+        <mj-image width="32px" src="https://i.ibb.co/F4d7yVF/email-footer-logo.png" alt="Fl
+        ag Icon"></mj-image>
+        <mj-text align="center" font-size="14px" color="#8991a5" line-height="20px">
+          Font Awesome <br>
+          307 S. Main St. | Suite 202 <br>
+          Bentonville, AR 72712, USA
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section>
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#8991a5" line-height="20px">
+        You’re subscribed to the Font Awesome mailing list. <a href="#">Unsubscribe<a/>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
